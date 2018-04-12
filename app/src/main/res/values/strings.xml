@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lyle</string>
+    <string name="login_account_hint">账号</string>
+    <string name="login_password_hint">密码</string>
+    <string name="login_btn">登陆</string>
+    <string name="login_register_btn">马上注册</string>
+    <string name="login_no_account">还没有账号？</string>
+    <string name="register_account_hint">账号（由数字和字母组成）</string>
+    <string name="register_btn">注册</string>
+    <string name="register_password_hint">输入密码</string>
+    <string name="nav_share">发布</string>
+    <string name="nav_home">主页</string>
+    <string name="nav_me">我的</string>
+    <string name="share_cancel_btn">取消</string>
+    <string name="share_enter_btn">发表</string>
+    <string name="me_edit_btn">编辑</string>
+    <string name="me_detail">个人资料</string>
+    <string name="me_nickname">昵称</string>
+    <string name="me_intro">个人介绍</string>
+    <string name="me_sex">性别</string>
+    <string name="me_history">查看我的历史动态</string>
+    <string name="share_text">说点什么</string>
+    <string name="share_location_btn">地点（必选）</string>
+</resources>
