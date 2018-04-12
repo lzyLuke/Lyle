@@ -21,7 +21,7 @@ public class MainActivity extends BaseActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        getWindow().addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
+
 
         navView = findViewById(R.id.nav_bottom);
         navView.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
